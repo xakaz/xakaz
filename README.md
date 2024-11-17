@@ -19,8 +19,8 @@ Je suis à l'aise avec les technologies suivantes :
 Au travail, je bosse d'autres supports:
 - **Windev** : Programmation logielle desktop
 - **Webdev** : Programmation web
-- **Windev Mobile** : Programmation logicielle téléphone
-![screenshot]([http://url/to/img.png](https://pcsoft.fr/img/2025/developpez-10-fois-plus-vite.webp))
+- **Windev Mobile** : Programmation logicielle téléphone  
+![screenshot](https://shop2.gsinfo.ch/223-medium_default/windev-webdev-windev-mobile-2024.jpg)
 
 
 ## 🚀 À propos de moi
