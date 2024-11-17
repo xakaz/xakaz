@@ -16,6 +16,13 @@ Je suis à l'aise avec les technologies suivantes :
 - **API** : GraphQL
 - **Version Control** : Git
 
+Au travail, je bosse d'autres supports:
+- **Windev** : Programmation logielle desktop
+- **Webdev** : Programmation web
+- **Windev Mobile** : Programmation logicielle téléphone
+![alt text]([http://url/to/img.png](https://pcsoft.fr/img/2025/developpez-10-fois-plus-vite.webp))
+
+
 ## 🚀 À propos de moi
 
 Je suis passionné par le développement d'applications modernes et évolutives, avec un fort accent sur l'expérience utilisateur et la performance. J'aime apprendre de nouvelles technologies et relever des défis techniques. Je travaille aussi bien sur des projets front-end que back-end, avec une approche full-stack lorsque nécessaire.
