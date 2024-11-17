@@ -1,4 +1,4 @@
-# Salut, je suis xakaz 👋
+# Salut, je suis Loïc Hernandez 👋
 
 Je travaille actuellement chez **Quali Parts & Services**, où je me passionne pour le développement web et mobile. Mon parcours m'a amené à obtenir plusieurs titres professionnels, ce qui m'a permis de perfectionner mes compétences techniques et d'explorer de nouveaux horizons dans le domaine du développement.
 
