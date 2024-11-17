@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**xakaz/xakaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salut, je suis xakaz 👋
 
-Here are some ideas to get you started:
+Je travaille actuellement chez **Quali Parts & Services**, où je me passionne pour le développement web et mobile. Mon parcours m'a amené à obtenir plusieurs titres professionnels, ce qui m'a permis de perfectionner mes compétences techniques et d'explorer de nouveaux horizons dans le domaine du développement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Formations
+- **Titre de Développeur Web et Web Mobile** (2022)
+- **Titre de Concepteur Développeur d'Applications** (2024)
+
+## 💻 Compétences techniques
+
+Je suis à l'aise avec les technologies suivantes :
+
+- **Frontend** : React, Next.js
+- **Backend** : Node.js
+- **Bases de données** : MySQL, PostgreSQL
+- **API** : GraphQL
+- **Version Control** : Git
+
+## 🚀 À propos de moi
+
+Je suis passionné par le développement d'applications modernes et évolutives, avec un fort accent sur l'expérience utilisateur et la performance. J'aime apprendre de nouvelles technologies et relever des défis techniques. Je travaille aussi bien sur des projets front-end que back-end, avec une approche full-stack lorsque nécessaire.
+
+---
+
+
+
