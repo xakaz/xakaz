@@ -16,7 +16,7 @@ Je suis à l'aise avec les technologies suivantes :
 - **API** : GraphQL
 - **Version Control** : Git
 
-Au travail, je bosse d'autres supports:
+Au travail, je bosse avec d'autres supports:
 - **Windev** : Programmation logielle desktop
 - **Webdev** : Programmation web
 - **Windev Mobile** : Programmation logicielle téléphone  
